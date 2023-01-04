@@ -1,0 +1,75 @@
+{
+  "nav-bar" : {
+    "about" : "About",
+    "experiences" : "Experiences",
+    "projects" : "Projects",
+    "contact" : "Contact"
+  },
+  "hero" : {
+    "code" : "Apps",
+    "and" : " ",
+    "design" : "& Web",
+    "create" : "Developer",
+    "develop" : "Front-End.",
+    "hello" : "Hi !",
+    "my-name" : "My name is Luis Criado",
+    "im-front" : "I'm a Front End Developer :)"
+  },
+  "about" : {
+    "about" : "ABOUT",
+    "about-me" : "I'm 32 years old,\n I am from Argentine 🌞 \n and I currently live in Santos Lugares Prov Buenos Aires.",
+    "from" : "I am from ",
+    "argentina" : "Argentine 🌞",
+    "currently" : "Due to the different work experiences of these last years,\nI started studying Web Development and Mobile Applications 2 years ago.\nI found in programming something that motivates me to learn every day,\nSeeking constant development and improving myself every day with what new technologies present to us.",
+    "thanks-to" : "Thanks to the different experiences of recent years, I learned to be self-taught, \n to be able to adapt easily to new places and work teams, \n and to develop a reflection oriented to solving problems.",
+    "content-creator" : "I am looking for my first job opportunity \nBeing able to develop as a Programmer \nWorking in a team is something I want",
+    "code-design" : "I really like doing activities with my friends on the PC 💻.",
+    "languages" : "I speak native Spanish and English level is A2 B1",
+    "work-motivation" : "More than motivated to put my knowledge into practice and keep learning 💪"
+  },
+  "studies-works" : {
+    "studies" : "Studies",
+    "work-exp" : "Work experience"
+  },
+  "studies" : {
+    "belgium" : "Buenos Aires, Argentina",
+    "web-app" : "•Profesor Kenneth Alvarenga'Adobe Ilustrator' \n•Profesor Kenneth Alvarenga Photoshop \n•Profesor Leo Romero 'Curso De Ventas Online",
+    "git-hub" : "•Profesor Fernando Herrera\n•Cursos React y React Pro \n•Next.js Freamework de React y React Native.",
+    "javascript" : "• Course 'JavaScript algorithms and data structures'.\n•Scientific Computing with Python certification",
+    "charleroi-belgium" : "Buenos Aires Argentina",
+    "courses-technofutur" : "•Course 'Introduction to Html, Css and JavaScript'. \n• Course 'Python and algorithms'",
+    "courses-convierte" : "• Web design and front end development. \nTools and stacks used: React, Typescript, Chakra, Css."
+ 
+  },
+  "works" : {
+    "internship" : "FullBattery",
+    "charleroi" : "Caseros, Buenos Aires",
+    "experience-nearmi" : "Maintenance of the sales system and e-commerce \n Equipment Repair",
+    "charleroi-belgium" : "where am i going",
+    "experience-freelancer" : "Jr Programmer"
+   
+  },
+  "stacks" : {
+    "interests" : "Interest in",
+    "animations" : "3D Desing", 
+    "graphic" : "Artificial Intelligence",
+    "responsive" : "Automation"
+  },
+  "projects" : {
+    "projects" : "projects",
+    "portfolio" : "Portfolio",
+    "about-portfolio" : "Responsive website animated with GSAP. Design made in Figma and organization of tasks with Jira.",
+    "landing-agency" : "Agency Landing Page",
+    "about-agency" : "Responsive website.",
+    "product-catalog" : "Product Catalog",
+    "about-product-catalog" : "Responsive website that displays products from the database, we can filter the products according to certain criteria (price, colors, rating).",
+    "coming-soon" : "SOON NEW PROJECTS, I'M WORKING ON THEM :)"
+  },
+  "contact" : {
+    "contact-me" : "Let's get in touch!",
+    "tooltip-email" : "Ready to start a new challenge, send me an email :)",
+    "tooltip-linkedin" : "Let's connect on Linkedin!",
+    "tooltip-github" : "Take a look at my code on GitHub 😊",
+    "tooltip-resume" : "Download my resume 📄"
+  }
+}

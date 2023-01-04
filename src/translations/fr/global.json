@@ -1,0 +1,81 @@
+{
+  "nav-bar" : {
+    "about" : "propos de moi",
+    "experiences" : "expériences",
+    "projects" : "projects",
+    "contact" : "contact"
+  },
+  "hero" : {
+    "code" : "Code",
+    "and" : " et ",
+    "create" : "Créer",
+    "develop" : "développer.",
+    "design" : "design.",
+    "hello" : "Bonjour !",
+    "my-name" : "Je m'appelle",
+    "im-front" : "Je suis développeuse Front End :)"
+  },
+  "about" : {
+    "about" : "PROPOS DE MOI",
+    "about-me" : "J'ai 23 ans, \n je viens d'Argentine 🌞 \n et je vis actuellement en Belgique.",
+    "years" : "J'ai 23 ans,",
+    "from" : "je viens d'",
+    "argentina" : "Argentine 🌞",
+    "currently" : "et je vis actuellement en Belgique.",
+    "thanks-to" : "Grâce aux différentes expériences de ces dernières années, j'ai appris à être autodidacte, \n à pouvoir m'adapter facilement \n à de nouveaux lieux et équipes de travail, et à développer une réflexion \n orientée vers la résolution de problèmes.",
+    "content-creator" : "Avoir travaillé en tant que créatrice de contenu pour les réseaux sociaux \n m'a aidé à améliorer mes compétences en design et à garder les détails à l'esprit.",
+    "code-design" : "Code et design sont les choses que j'aime le plus faire 💻.",
+    "languages" : "Je parle espagnol, anglais et français.",
+    "work-motivation" : "Plus que motivée à mettre en pratique mes connaissances et à continuer à apprendre 💪."
+  },
+  "studies-works" : {
+    "studies" : "études",
+    "work-exp" : "expérience"
+  },
+  "studies" : {
+    "belgium" : "Charleroi, Belgique",
+    "web-app" : "Web App Developer \n (formation à temps plein d'une durée de 6 mois).",
+    "git-hub" : "• Cours 'GitHub para programadores' orienté vers l'apprentissage de GitHub. \n• Cours 'Diseño para programación esencial' orienté vers la combinaison du design et du code.",
+    "javascript" : "• Cours 'Algorithmes JavaScript et structures de données'.",
+    "charleroi-belgium" : "Charleroi, Belgique",
+    "courses-technofutur" : "• Cours 'Introduction à Html, Css et JavaScript'. \n• Cours 'Python et algorithmes'.",
+    "courses-convierte" : "• Cours 'Más Contenidos' orienté vers la création de contenu sur les réseaux sociaux. \n• Cours 'Más ADS' orienté vers les stratégies de publicité sur Facebook et Instagram. \n• Cours 'Más Marketing' orienté au marketing et à la publicité sur les réseaux sociaux.",
+    "university-cordoba" : "UNIVERSITÉ NATIONALE DE CÓRDOBA",
+    "cordoba-argentine" : "Córdoba, Argentine",
+    "photography" : "Cours de photographie."
+  },
+  "works" : {
+    "internship" : "STAGE - NEARMI",
+    "charleroi" : "Charleroi, Belgique - 6 SEMAINES",
+    "experience-nearmi" : "Web design et développement front-end. \nOutils et technologies utilisés: Figma, React, Typescript, Chakra, Sass.",
+    "charleroi-belgium" : "Charleroi, Belgique",
+    "experience-freelancer" : "Marketing digital et créateur de contenu pour les réseaux sociaux.",
+    "flaine" : "Flaine, France",
+    "experience-flaine" : "Nettoyage des chambres et des parties communes de l'hôtel.",
+    "carnac" : "Carnac, France",
+    "experience-carnac" : "Responsable du service du bar et des tables, du nettoyage des chambres et des parties communes de l'hôtel."
+  },  
+  "stacks" : {
+    "interests" : "intérêts",
+    "animations" : "ANIMATIONS", 
+    "graphic" : "GRAPHISME",
+    "responsive" : "DESIGN RESPONSIVE"
+  },
+  "projects" : {
+    "projects" : "projects",
+    "portfolio" : "Portfolio",
+    "about-portfolio" : "Web site responsive animé avec GSAP. Design faite en Figma et l'organisation des tâches avec Jira.",
+    "landing-agency" : "Agence Landing Page",
+    "about-agency" : "Responsive website.",
+    "product-catalog" : "Catalogue de produits",
+    "about-product-catalog" : "Web site responsive qui affiche des produits de la base de données, ceux-ci peuvent être filtrés selon certains critères tels que la couleur, le prix ou la note.",
+    "coming-soon" : "BIENTÔT DE NOUVEAUX PROJETS, J'Y TRAVAILLE :)"
+  },
+  "contact" : {
+    "contact-me" : "Vous souhaitez me contacter?",
+    "tooltip-email" : "Prêt à commencer un nouveau défi, envoyez-moi un email :)",
+    "tooltip-linkedin" : "Connectons-nous sur Linkedin!",
+    "tooltip-github" : "Jetez un oeil à mon code sur GitHub 😊",
+    "tooltip-resume" : "Télécharger mon CV 📄"
+  }
+}

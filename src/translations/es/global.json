@@ -1,0 +1,75 @@
+{
+  "nav-bar" : {
+    "about" : "Sobre mí",
+    "experiences" : "Experiencias",
+    "projects" : "Proyectos",
+    "contact" : "Contacto"
+  },
+  "hero" : {
+    "code" : "Desarollador",
+    "and" : " ",
+    "design" : "Apps",
+    "create" : " & Web",
+    "develop" : "Front-End",
+    "hello" : "Hola !",
+    "my-name" : "Mi nombre es Luis Criado",
+    "im-front" : "Soy desarrolladora Front End :)"
+  },
+  "about" : {
+    "about" : "SOBRE MÍ",
+    "about-me" : "Tengo 32 años,\nSoy de Argentina 🌞 \nActualmente vivo Santos Lugares Provincia de Buenos Aires.",
+    "years" : "Tengo 32 años,",
+    "from" : "Soy de ",
+    "argentina" : "Argentina 🌞",
+    "currently" : "y actualmente vivo Santos Lugares Provincia de Buenos Aires",
+    "thanks-to" : "Debido a las diferentes experiencias  laborales de estos últimos años, \nComence hace 2 años a estudiar Desarrollo de Web y Aplicaciones Moviles.\nEncontre en la programacion algo que me motiva a aprender todos los dias, \nBuscar un desarrollo constante y superarme cadad dia con lo que las nuevas tecnologias nos presentan.",
+    "content-creator" : "Estoy en Busqueda De mi primera oportunidad Laboral \nPoder desarollarme como Programador \n Trabajar en equipo es algo que deseo",
+    "code-design" : "Me gusta Mucho realizar actividades Con mis amigos en la pc 💻.",
+    "languages" : "Hablo español Nativo e Inglés A2 B1 ",
+    "work-motivation" : "Más que motivado en poner en practicas mis conocimientos y a seguir aprendiendo 💪."
+  },
+  "studies-works" : {
+    "studies" : "Estudios",
+    "work-exp" : "Experiencia laboral"
+  },
+  "studies" : {
+    "belgium" : "Buenos Aires, Argentina",
+    "web-app" : "•Profesor Kenneth Alvarenga'Adobe Ilustrator' \n•Profesor Kenneth Alvarenga Photoshop \n•Profesor Leo Romero 'Curso De Ventas Online",
+    "git-hub" : "Profesor Fernando Herrera\n•Cursos React y React Pro \n•Next.js Freamework de React y React Native.",
+    "javascript" : "• Curso 'Algoritmos JavaScript y estructuras de datos'.\n•Computacion Cientifica con certificacion Python",
+    "charleroi-belgium" : "Buenos Aires, Argentina",
+    "courses-technofutur" : "Profesor Federico Garay\n•Curso De Python Practico.\n•Curso de Three Js.",
+    "courses-convierte" : "•Diseño web y desarrollo front end. \nHerramientas y stacks utilizadas: React, Typescript, Chakra, Css."
+ 
+  },
+  "works" : {
+    "internship" : "FullBattery",
+    "charleroi" : "Caseros, Buenos Aires",
+    "experience-nearmi" : "Mantenimiento del sistema de ventas y e-comercer \n Reparacion de Equipos",
+    "charleroi-belgium" : "Donde Me depare",
+    "experience-freelancer" : "Programador Jr"
+  },  
+  "stacks" : {
+    "interests" : "Interés en",
+    "animations" : "Diseño 3D", 
+    "graphic" : "Inteligencia Artificial",
+    "responsive" : "Automatizacion"
+  },
+  "projects" : {
+    "projects" : "Proyectos",
+    "portfolio" : "Portafolio",
+    "about-portfolio" : "Sitio web responsivo animado con GSAP. Diseño realizado en Figma y organización de tareas con Jira.",
+    "landing-agency" : "Landing Page Agencia",
+    "about-agency" : "Sitio web responsivo.",
+    "product-catalog" : "Catálogo de productos",
+    "about-product-catalog" : "Sitio web responsivo que muestra productos de la base de datos, estos se puede filtran de acuerdo con ciertos criterios como color, precio o calificación.",
+    "coming-soon" : "PRÓXIMAMENTE NUEVOS PROYECTOS, ESTOY TRABAJANDO EN ELLO :)"
+  },
+  "contact" : {
+    "contact-me" : "Pongámonos en contacto!",
+    "tooltip-email" : "Lista para comenzar un nuevo desafío, envíame un email :)",
+    "tooltip-linkedin" : "Conectémonos en Linkedin!",
+    "tooltip-github" : "Echa un vistazo a mi código en GitHub 😊",
+    "tooltip-resume" : "Descarga mi curriculum 📄"
+  }
+}

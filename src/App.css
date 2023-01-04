@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  scroll-snap-type: mandatory;
+  scroll-snap-type: y mandatory;
+  height: 100vh;
+  max-height: 100vh;
+  scroll-behavior: smooth;
+  /* overflow-x: hidden; */
+}
+
+section{
+  position: relative;
+}
+
+:root {
+  --swiper-theme-color: #000;
+}
+
+
+
