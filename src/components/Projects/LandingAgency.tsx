@@ -34,12 +34,13 @@ export default function LandingAgency () {
           title={t('projects.landing-agency')}
           description={t('projects.about-agency')}
           urlProject="https://agency-landing-react-ts.vercel.app/"
-          urlGit="https://github.com/juliizq/agency-landing"
+          urlGit="https://github.com/LuisCriado"
         />
         <Box mt={'10px'}>
-          <SharedButton child="CHAKRA UI" bgColor="pink" />
-          <SharedButton child="REACT" bgColor="green" />
-          <SharedButton child="TYPESCRIPT" bgColor="blue" />
+          <SharedButton child="HTML" bgColor="pink" />
+          <SharedButton child="CSS" bgColor="green" />
+          <SharedButton child="Javascript" bgColor="yellow" />
+          <SharedButton child="WordPress" bgColor="blue" />
         </Box>
       </Flex>
     </Flex>

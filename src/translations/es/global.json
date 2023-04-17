@@ -58,11 +58,11 @@
   "projects" : {
     "projects" : "Proyectos",
     "portfolio" : "Portafolio",
-    "about-portfolio" : "Sitio web responsivo animado con GSAP. Diseño realizado en Figma y organización de tareas con Jira.",
-    "landing-agency" : "Landing Page Agencia",
-    "about-agency" : "Sitio web responsivo.",
-    "product-catalog" : "Catálogo de productos",
-    "about-product-catalog" : "Sitio web responsivo que muestra productos de la base de datos, estos se puede filtran de acuerdo con ciertos criterios como color, precio o calificación.",
+    "about-portfolio" : "Sitio web responsivo animado con GSAP. Utilizando Typescript con Chakra Ui. Este Sitio es La ejercitacion  realizada de forma Autodidacta.",
+    "landing-agency" : "MN Insumos E-comerce",
+    "about-agency" : "E-comerce realizado para la empresa MN Insumos Realizado con HTML CSS Javascript y WordPress. Solucion Rapida Y eficiente para Comercializar sus Productos",
+    "product-catalog" : "Snake 8 Bits",
+    "about-product-catalog" : "Primeras Practicas Autodidacta con la recreacion del juego Snake del nokia 110",
     "coming-soon" : "PRÓXIMAMENTE NUEVOS PROYECTOS, ESTOY TRABAJANDO EN ELLO :)"
   },
   "contact" : {

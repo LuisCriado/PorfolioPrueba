@@ -32,7 +32,7 @@ export default function Portfolio () {
           title={t('projects.portfolio')}
           description={t('projects.about-portfolio')}
           urlProject="https://portfolio-juliana-izquierdo.vercel.app/"
-          urlGit="https://github.com/juliizq/portfolio-juliana-izquierdo"
+          urlGit="https://github.com/LuisCriado"
         />
         <Box mt={'10px'}>
           <SharedButton child="FRAMER MOTION" bgColor="lila" />

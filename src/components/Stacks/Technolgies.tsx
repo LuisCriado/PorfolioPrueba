@@ -41,13 +41,13 @@ export default function Technolgies () {
         gap={['3']}
         ml={['10px', '20px', '30px']}
       >
-        <StackItem bgColor="red" child="Next.js" />
+        <StackItem bgColor="red" child="HTML" />
         <Flex>
-          <StackItem bgColor="turquoise" child="React.js" />
-          <StackItem bgColor="lila" child="React Native" />
+          <StackItem bgColor="turquoise" child="CSS" />
+          <StackItem bgColor="lila" child="Javascript" />
         </Flex>
         <Flex>
-          <StackItem bgColor="pink" child="Typescrypt" />
+          <StackItem bgColor="pink" child="React Js" />
           <StackItem bgColor="green" child="Python" />
         </Flex>
         <Flex>
@@ -55,11 +55,11 @@ export default function Technolgies () {
           <StackItem bgColor="red" child="Boostrap" />
         </Flex>
         <Flex>
-          <StackItem bgColor="turquoise" child="HTML" />
-          <StackItem bgColor="lila" child="Css3" />
-          <StackItem bgColor="pink" child="Javascript" />
+          <StackItem bgColor="turquoise" child="Dart" />
+          <StackItem bgColor="lila" child="Flutter" />
+          <StackItem bgColor="pink" child="Three.js" />
         </Flex>
-        <StackItem bgColor="green" child="G-nexus" />
+
       </Flex>
     </Flex>
   )

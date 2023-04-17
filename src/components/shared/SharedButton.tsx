@@ -32,6 +32,9 @@ const themes = {
   },
   blue: {
     bgColor: 'rgba(162, 207, 249, 0.5)'
+  },
+  yellow: {
+    bgColor: 'rgba(255, 255, 0, 0.5)'
   }
 }
 

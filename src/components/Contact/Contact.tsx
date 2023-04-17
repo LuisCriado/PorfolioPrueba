@@ -46,8 +46,8 @@ export default function Contact () {
           </ContactCTA>
         </a>
         <a
-          href={'Resume-JulianaIzquierdo.pdf'}
-          download={'Resume-JulianaIzquierdo.pdf'}
+          href={'Resume-LuisCriado.pdf'}
+          download={'Resume-LuisCriado.pdf'}
           target="_blank"
           rel="noreferrer"
         >
