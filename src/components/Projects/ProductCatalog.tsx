@@ -20,7 +20,7 @@ export default function ProductCatalog () {
         justifyContent={['center']}
       >
         <Video
-          poster={'../../assets/ProductCatalogPreview.png'}
+          poster={'../../assets/vivorita1.png'}
           src={ProductCatalogPreview}
         />
       </Flex>
@@ -34,8 +34,8 @@ export default function ProductCatalog () {
         <InfoProject
           title={t('projects.product-catalog')}
           description={t('projects.about-product-catalog')}
-          urlProject="https://product-catalog-api.vercel.app/"
-          urlGit="https://github.com/juliizq/product-catalog-api"
+          urlProject="https://snake8bits.netlify.app/"
+          urlGit="https://github.com/LuisCriado/Js-Snake"
         />
         <Box mt={'10px'}>
           <SharedButton child="CHAKRA UI" bgColor="turquoise" />

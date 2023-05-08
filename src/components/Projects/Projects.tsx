@@ -7,9 +7,14 @@ import 'swiper/css/navigation'
 import 'swiper/css/pagination'
 import { Navigation, Pagination, Mousewheel, Keyboard } from 'swiper'
 import Portfolio from './Portfolio'
-import LandingAgency from './LandingAgency'
 import Title from '../shared/Title'
-import ProductCatalog from './ProductCatalog'
+import Snake from './Snake'
+import PokeApi from './PokeAPi'
+import MnInsumos from './Mninsumos'
+import Wertochi from './Gochi'
+import Gifts from './Gifts'
+import MiraPokemons from './MiraPokemons'
+import Pronostico from './Pronostico'
 
 export default function Projects () {
   const [t, i18n] = useTranslation('global')
@@ -31,13 +36,28 @@ export default function Projects () {
             className="mySwiper"
           >
             <SwiperSlide>
-              <ProductCatalog />
+              <Snake/>
             </SwiperSlide>
             <SwiperSlide>
-              <LandingAgency />
+              <PokeApi/>
+            </SwiperSlide>
+            <SwiperSlide>
+              <MnInsumos />
             </SwiperSlide>
             <SwiperSlide>
               <Portfolio />
+            </SwiperSlide>
+            <SwiperSlide>
+              <Wertochi />
+            </SwiperSlide>
+             <SwiperSlide>
+              <Gifts />
+            </SwiperSlide>
+            <SwiperSlide>
+              <MiraPokemons/>
+            </SwiperSlide>
+            <SwiperSlide>
+              <Pronostico/>
             </SwiperSlide>
           </Swiper>
         </Flex>

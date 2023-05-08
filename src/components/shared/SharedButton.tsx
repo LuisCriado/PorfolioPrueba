@@ -35,7 +35,14 @@ const themes = {
   },
   yellow: {
     bgColor: 'rgba(255, 255, 0, 0.5)'
+  },
+  black: {
+    bgColor: 'rgba(0, 0, 0, 0.5)'
+  },
+  celestito: {
+    bgColor: 'rgba(93, 193, 185, 0.5)'
   }
+
 }
 
 export default function SharedButton ({

@@ -1,10 +1,10 @@
-import { Box, Flex } from '@chakra-ui/react'
 import React from 'react'
+import { Box, Flex } from '@chakra-ui/react'
 import { useTranslation } from 'react-i18next'
 import SharedButton from '../shared/SharedButton'
 import InfoProject from './InfoProject'
-import MediaProject from './MediaProject'
-import PortfolioPreview from '../../assets/Portfolio-preview.png'
+import Video from './Video/Video'
+import PortfolioPreview from '../../assets/porfolio.mp4'
 
 export default function Portfolio () {
   const [t, i18n] = useTranslation('global')
@@ -14,13 +14,15 @@ export default function Portfolio () {
       flexDirection={{ base: 'column', md: 'row', lg: 'row' }}
       p={['10px 30px', '10px 40px', '10px 50px', '10px 60px']}
     >
+      {/* Video */}
       <Flex
         flex={['', '5']}
         p={['15px', '20px', '30px']}
         justifyContent={['center']}
       >
-        <MediaProject media={PortfolioPreview} />
+        <Video poster='../../assets/Portfolio-preview.png' src={PortfolioPreview}/>
       </Flex>
+      {/* Info project */}
       <Flex
         flex={['', '3']}
         flexDirection={'column'}
@@ -31,14 +33,14 @@ export default function Portfolio () {
         <InfoProject
           title={t('projects.portfolio')}
           description={t('projects.about-portfolio')}
-          urlProject="https://portfolio-juliana-izquierdo.vercel.app/"
-          urlGit="https://github.com/LuisCriado"
+          urlProject="https://miramispokemon.netlify.app/"
+          urlGit="https://github.com/LuisCriado/PokeFetch"
         />
         <Box mt={'10px'}>
-          <SharedButton child="FRAMER MOTION" bgColor="lila" />
-          <SharedButton child="CHAKRA UI" bgColor="turquoise" />
-          <SharedButton child="REACT" bgColor="pink" />
-          <SharedButton child="TYPESCRIPT" bgColor="green" />
+          <SharedButton child="Next" bgColor="black" />
+          <SharedButton child="CSS" bgColor="celestito" />
+          <SharedButton child="Javascript" bgColor="yellow" />
+          <SharedButton child="WordPress" bgColor="blue" />
         </Box>
       </Flex>
     </Flex>
