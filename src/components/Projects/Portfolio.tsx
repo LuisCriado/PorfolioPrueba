@@ -33,8 +33,8 @@ export default function Portfolio () {
         <InfoProject
           title={t('projects.portfolio')}
           description={t('projects.about-portfolio')}
-          urlProject="https://miramispokemon.netlify.app/"
-          urlGit="https://github.com/LuisCriado/PokeFetch"
+          urlProject="#"
+          urlGit="https://github.com/LuisCriado/"
         />
         <Box mt={'10px'}>
           <SharedButton child="React Js" bgColor="red" />

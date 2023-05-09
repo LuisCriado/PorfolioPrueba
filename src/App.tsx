@@ -89,6 +89,18 @@ function App () {
                 >
                   <Stacks />
                 </Flex>
+              <br />
+                <Flex
+                  as="section"
+                  id="projects"
+                  h={'100vh'}
+                  p={['0 9%', '0 3%', '0 5%']}
+                  flexDirection={'column'}
+                  justifyContent={'start'}
+                >
+                  <Projects />
+                </Flex>
+                <hr />
                 <Flex
                   as="section"
                   id="projects"
@@ -97,7 +109,6 @@ function App () {
                   flexDirection={'column'}
                   justifyContent={'center'}
                 >
-                  <Projects />
                 </Flex>
                 <Box as="section" h={['97vh']} id="contact">
                   <Contact />

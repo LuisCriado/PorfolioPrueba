@@ -6,24 +6,17 @@ import 'swiper/css'
 import 'swiper/css/navigation'
 import 'swiper/css/pagination'
 import { Navigation, Pagination, Mousewheel, Keyboard } from 'swiper'
-import Portfolio from './Portfolio'
-import Title from '../shared/Title'
-import Snake from './Snake'
-import PokeApi from './PokeAPi'
-import MnInsumos from './Mninsumos'
-import Wertochi from './Gochi'
-import Gifts from './Gifts'
-import MiraPokemons from './MiraPokemons'
-import Pronostico from './Pronostico'
-import Comingson from './Comings/Comingson'
-export default function Projects () {
+import Title from '../../shared/Title'
+import Flutter from './Flutter'
+
+export default function Comingson () {
   const [t, i18n] = useTranslation('global')
 
   return (
     <Box>
       <Flex flexDirection={'column'}>
         <Box ml={['50px']} mb={['5px']}>
-          <Title child={t('projects.projects')} />
+          <Title child={t('Proximos Proyectos')} />
         </Box>
         <Flex flexGrow={'1'}>
           <Swiper
@@ -36,35 +29,14 @@ export default function Projects () {
             className="mySwiper"
           >
             <SwiperSlide>
-              <Snake/>
-            </SwiperSlide>
-            <SwiperSlide>
-              <PokeApi/>
-            </SwiperSlide>
-            <SwiperSlide>
-              <MnInsumos />
-            </SwiperSlide>
-            <SwiperSlide>
-              <Portfolio />
-            </SwiperSlide>
-            <SwiperSlide>
-              <Wertochi />
-            </SwiperSlide>
-             <SwiperSlide>
-              <Gifts />
-            </SwiperSlide>
-            <SwiperSlide>
-              <MiraPokemons/>
-            </SwiperSlide>
-            <SwiperSlide>
-              <Pronostico/>
+                <Flutter/>
             </SwiperSlide>
           </Swiper>
         </Flex>
         <Flex
           mt={['5px', '10px']}
           justifyContent={'center'}
-          position="relative"
+          position="inherit"
         >
           <Flex
             textAlign={'center'}
@@ -77,7 +49,7 @@ export default function Projects () {
             fontWeight={'500'}
             p={'5px 10px'}
           >
-            <Comingson/>
+            {t('projects.coming-soon')}
           </Flex>
         </Flex>
       </Flex>

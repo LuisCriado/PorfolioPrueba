@@ -11,7 +11,8 @@ export default function InfoProject ({
   urlGit
 }: IInfoProject) {
   return (
-    <VStack alignItems={['center', 'center', 'flex-start']}>
+    <VStack
+     margin={'3px'} alignItems={['center', 'center', 'flex-start']}>
       <Flex gap={['1']} alignItems={'center'}>
         <Link href={urlProject} isExternal>
           <Text as={'span'} fontSize={['lg', 'xl', '3xl']} fontWeight="600">

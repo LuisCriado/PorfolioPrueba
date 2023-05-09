@@ -3,6 +3,7 @@
     "about" : "About",
     "experiences" : "Experiences",
     "projects" : "Projects",
+    "comingson": "Next Projects",
     "contact" : "Contact"
   },
   "hero" : {
@@ -73,6 +74,8 @@
     "about-pokemons-mira":"The project I developed is a web page called Check out my Pokémon, which uses the Pokeapi.com API to display information about Pokémon. The page was developed using vanilla Javascript. One of the biggest challenges of the project was working with the Pokeapi.com API and making sure that the information was retrieved accurately and quickly. I used coding tools to optimize page speed and make sure users could get information about Pokémon quickly and easily.",
     "pronostrico-app":"App de Pronostrico de tiempo",
     "about-pronostrico-app":"The project I developed consisted in the creation of a forecast web page using the AccuWeather API and the HTML, CSS and JavaScript technologies. ne of the biggest challenges of the project was working with the AccuWeather API and making sure that the weather information was accurately retrieved and displayed correctly on the web page. I also implemented additional features to improve the user experience, such as the ability to search for citiesnop",
+    "flutter-app":"App Diseñando with Flutter",
+    "about-fluterr-app":"A layout app built in Flutter with Dart can have a beautiful and smooth UI as Flutter uses customizable widgets to build the UI. These widgets can be modified and combined to create complex and highly customized user interfaces. Flutter also provides tools for animation, event handling, and app navigation. Your application can take advantage of Dart features such as the use of optional types, asynchronism, higher-order functions, and object-oriented programming. Additionally, Dart has an AOT (Ahead of Time) compiler that allows for better execution speed compared to interpreted languages ​​like JavaScript.",
     "coming-soon" : "SOON NEW PROJECTS, I'M WORKING ON THEM :)"
   },
   "contact" : {

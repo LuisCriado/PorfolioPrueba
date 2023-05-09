@@ -3,6 +3,7 @@
     "about" : "Sobre mí",
     "experiences" : "Experiencias",
     "projects" : "Proyectos",
+    "comingson": "Proximos Proyectos",
     "contact" : "Contacto"
   },
   "hero" : {
@@ -73,6 +74,8 @@
     "about-pokemons-mira":"El proyecto que desarrollé es una página web llamada Mira mis pokémones, que utiliza la API de Pokeapi.com para mostrar información sobre los Pokémon. La página fue desarrollada utilizando Javascript vanilla.  Uno de los mayores desafíos del proyecto fue trabajar con la API de Pokeapi.com y asegurarse de que la información se obtuviera de manera precisa y rápida. Utilicé herramientas de programación para optimizar la velocidad de la página y asegurarme de que los usuarios pudieran obtener información sobre los Pokémon de manera rápida y fácil.",
     "pronostrico-app":"App de Pronostrico de tiempo",
     "about-pronostrico-app":"El proyecto que desarrollé consistió en la creación de una página web de pronóstico utilizando la API de AccuWeather y las tecnologías de HTML, CSS y JavaScript. no de los mayores desafíos del proyecto fue trabajar con la API de AccuWeather y asegurarme de que la información meteorológica se obtuviera de manera precisa y se mostrara correctamente en la página web. También implementé características adicionales para mejorar la experiencia del usuario, como la capacidad de buscar ciudades ",
+    "flutter-app":"App Diseñando with Flutter",
+    "about-fluterr-app":"Una aplicación de diseño creada en Flutter con Dart puede tener una interfaz de usuario hermosa y fluida, ya que Flutter utiliza widgets personalizables para construir la interfaz de usuario. Estos widgets pueden ser modificados y combinados para crear interfaces de usuario complejas y altamente personalizadas. Flutter también proporciona herramientas para la animación, el manejo de eventos y la navegación de la aplicación. La aplicación puede aprovechar las características de Dart como el uso de tipos opcionales, asincronismo, funciones de orden superior y programación orientada a objetos. Además, Dart tiene un compilador AOT (Ahead of Time) que permite una mejor velocidad de ejecución en comparación con los lenguajes interpretados como JavaScript.",
     "coming-soon" : "PRÓXIMAMENTE NUEVOS PROYECTOS, ESTOY TRABAJANDO EN ELLO :)"
   },
   "contact" : {
