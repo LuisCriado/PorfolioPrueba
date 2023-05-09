@@ -41,6 +41,9 @@ const themes = {
   },
   celestito: {
     bgColor: 'rgba(93, 193, 185, 0.5)'
+  },
+  violete: {
+    bgColor: 'rgba(93, 193, 185, 0.5)'
   }
 
 }

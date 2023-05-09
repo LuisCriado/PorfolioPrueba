@@ -34,13 +34,12 @@ export default function Snake () {
           title={t('projects.product-catalog')}
           description={t('projects.about-product-catalog')}
           urlProject="https://snake8bits.netlify.app/"
-          urlGit="https://github.com/LuisCriado"
+          urlGit="https://github.com/LuisCriado/Js-Snake"
         />
         <Box mt={'10px'}>
-          <SharedButton child="HTML" bgColor="pink" />
-          <SharedButton child="CSS" bgColor="green" />
+          <SharedButton child="HTML" bgColor="red" />
+          <SharedButton child="CSS" bgColor="turquoise" />
           <SharedButton child="Javascript" bgColor="yellow" />
-          <SharedButton child="WordPress" bgColor="blue" />
         </Box>
       </Flex>
     </Flex>

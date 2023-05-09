@@ -33,8 +33,8 @@ export default function MnInsumos () {
         <InfoProject
           title={t('projects.landing-agency')}
           description={t('projects.about-agency')}
-          urlProject="https://pokeapi20.vercel.app/"
-          urlGit="https://github.com/LuisCriado/pokeAPi2.0"
+          urlProject="https://www.mninsumos.com.ar/"
+          urlGit="https://www.mninsumos.com.ar/admin"
         />
         <Box mt={'10px'}>
           <SharedButton child="HTML" bgColor="pink" />

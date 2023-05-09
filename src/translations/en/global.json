@@ -56,13 +56,23 @@
     "responsive" : "Automation"
   },
   "projects" : {
-    "projects" : "projects",
+    "projects" : "Projects",
     "portfolio" : "Portfolio",
     "about-portfolio" : "Responsive website animated with GSAP. Design made in Figma and organization of tasks with Jira.",
-    "landing-agency" : "Agency Landing Page",
-    "about-agency" : "Responsive website.",
-    "product-catalog" : "Product Catalog",
-    "about-product-catalog" : "Responsive website that displays products from the database, we can filter the products according to certain criteria (price, colors, rating).",
+    "landing-agency" : "MN Insumos E-comerce",
+    "about-agency" : "The project that I carried out consisted of the development of a web page for the company Mninusmos using WordPress and the Elmentor plugin. For this project, I designed an attractive and functional interface for the home page, the product and service pages, the contact page and any other section necessary for the company. I used the Elmentor plugin to create custom layouts for each page and section, which allowed for more flexibility and control in the layout. I also set up the functionality of the page to ensure it was fast and easy to use. I used optimization tools to improve page load speed, making sure that visitors could quickly access the information they needed.",
+    "product-catalog" : "Snake 8 Bits",
+    "about-product-catalog" : "The project I developed consisted in the creation of a digital version of the Nokia 1100 snake game using Javascript, HTML and CSS. One of the biggest challenges of the project was working with the game logic and making sure the snake moved smoothly and fluidly. I also made sure the game was easy to play and the interface was intuitive. One of the biggest challenges of the project was working with Three.js and making sure the 3D animation and visual effects were right to create an immersive experience. It was also important to ensure that the information was stored correctly in local storage and reliably retrieved when needed.",
+    "api-pokemon" : "Pokemon Api 2.0",
+    "about-api-pokemon": "In short, the Pokémon app I developed using Three.js and JavaScript is a showcase of my ability to create visually compelling and interactive experiences on the web. The attention to detail in the design and programming of the page, together with the implementation of search and navigation features, create an immersive and personalized user experience for Pokémon lovers. In addition, the ability to save information and persist thanks to local storage demonstrates my knowledge of data management on the web.",
+    "gochi-app": "WertyGochi",
+    "about-gochi-app": "The project that I developed is a web application called WertyGochi, which is a digital version of the popular Tamagotchi. The application was made using vanilla Javascript during my participation in the IT Education Bootcamp. For the project, I designed a friendly and intuitive user interface that allowed users to care for and feed their virtual pet. I used vanilla Javascript to program the game logic, which allowed the virtual pet to respond to user actions. In summary, the WertyGochi application that I developed using vanilla Javascript is a showcase of my ability to create fun and interactive web applications.",
+    "gift-app": "Apps De Gifts",
+    "about-gift-app" : "The project I developed is a web application using React, one of the most popular JavaScript libraries for building user interfaces. This application uses the Giphy API, a platform that offers a large amount of multimedia content, such as animated images and videos.\n \n One of the biggest challenges of the project was working with the Giphy API, since it required processing and display a large amount of data in real time. To overcome this challenge, I used the tools provided by React, such as state handling and routing, to ensure the application was fast and smooth. ",
+    "pokemon-mira":" Mira mis Pokemons",
+    "about-pokemons-mira":"The project I developed is a web page called Check out my Pokémon, which uses the Pokeapi.com API to display information about Pokémon. The page was developed using vanilla Javascript. One of the biggest challenges of the project was working with the Pokeapi.com API and making sure that the information was retrieved accurately and quickly. I used coding tools to optimize page speed and make sure users could get information about Pokémon quickly and easily.",
+    "pronostrico-app":"App de Pronostrico de tiempo",
+    "about-pronostrico-app":"The project I developed consisted in the creation of a forecast web page using the AccuWeather API and the HTML, CSS and JavaScript technologies. ne of the biggest challenges of the project was working with the AccuWeather API and making sure that the weather information was accurately retrieved and displayed correctly on the web page. I also implemented additional features to improve the user experience, such as the ability to search for citiesnop",
     "coming-soon" : "SOON NEW PROJECTS, I'M WORKING ON THEM :)"
   },
   "contact" : {

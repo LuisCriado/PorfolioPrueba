@@ -33,14 +33,14 @@ export default function Gifts () {
         <InfoProject
           title={t('projects.gift-app')}
           description={t('projects.about-gift-app')}
-          urlProject="https://pokeapi20.vercel.app/"
-          urlGit="https://github.com/LuisCriado/pokeAPi2.0"
+          urlProject="https://lookgifs.netlify.app/"
+          urlGit="https://github.com/LuisCriado/"
         />
         <Box mt={'10px'}>
-          <SharedButton child="Next" bgColor="black" />
+          <SharedButton child="React JS" bgColor="turquoise" />
           <SharedButton child="CSS" bgColor="celestito" />
           <SharedButton child="Javascript" bgColor="yellow" />
-          <SharedButton child="WordPress" bgColor="blue" />
+          <SharedButton child="Boostrap" bgColor="blue" />
         </Box>
       </Flex>
     </Flex>

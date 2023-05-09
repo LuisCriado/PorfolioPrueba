@@ -37,10 +37,9 @@ export default function Wertochi () {
           urlGit="https://github.com/LuisCriado/WertGochi.Bootcampo"
         />
         <Box mt={'10px'}>
-          <SharedButton child="Next" bgColor="black" />
+          <SharedButton child="HTML" bgColor="red" />
           <SharedButton child="CSS" bgColor="celestito" />
           <SharedButton child="Javascript" bgColor="yellow" />
-          <SharedButton child="WordPress" bgColor="blue" />
         </Box>
       </Flex>
     </Flex>

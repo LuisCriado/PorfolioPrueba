@@ -37,10 +37,10 @@ export default function Pronostico () {
           urlGit="https://github.com/LuisCriado/"
         />
         <Box mt={'10px'}>
-          <SharedButton child="HTML" bgColor="pink" />
-          <SharedButton child="CSS" bgColor="green" />
+          <SharedButton child="HTML" bgColor="red" />
+          <SharedButton child="CSS" bgColor="turquoise" />
           <SharedButton child="Javascript" bgColor="yellow" />
-          <SharedButton child="WordPress" bgColor="blue" />
+          <SharedButton child="Gradient UI" bgColor="violete" />
         </Box>
       </Flex>
     </Flex>

@@ -37,10 +37,10 @@ export default function Portfolio () {
           urlGit="https://github.com/LuisCriado/PokeFetch"
         />
         <Box mt={'10px'}>
-          <SharedButton child="Next" bgColor="black" />
-          <SharedButton child="CSS" bgColor="celestito" />
-          <SharedButton child="Javascript" bgColor="yellow" />
-          <SharedButton child="WordPress" bgColor="blue" />
+          <SharedButton child="React Js" bgColor="red" />
+          <SharedButton child="Chakra ui" bgColor="celestito" />
+          <SharedButton child="Responive Desing" bgColor="yellow" />
+          <SharedButton child="EMOTION" bgColor="green" />
         </Box>
       </Flex>
     </Flex>

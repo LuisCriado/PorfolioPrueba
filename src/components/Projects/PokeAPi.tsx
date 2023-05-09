@@ -38,9 +38,10 @@ export default function PokeApi () {
         />
         <Box mt={'10px'}>
           <SharedButton child="Next" bgColor="black" />
-          <SharedButton child="CSS" bgColor="celestito" />
-          <SharedButton child="Javascript" bgColor="yellow" />
-          <SharedButton child="WordPress" bgColor="blue" />
+          <SharedButton child="Tailwind" bgColor="celestito" />
+          <SharedButton child="API" bgColor="yellow" />
+          <SharedButton child="Javascript" bgColor="blue" />
+          <SharedButton child="Three JS" bgColor="blue" />
         </Box>
       </Flex>
     </Flex>
