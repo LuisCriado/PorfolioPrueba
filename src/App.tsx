@@ -110,11 +110,13 @@ function App () {
                   justifyContent={'center'}
                 >
                 </Flex>
-                <Box as="section" h={['97vh']} id="contact" marginTop={'10 0px'}>
+                <Box as="section" h={['97vh']} id="contact" marginTop={'300px'}>
                   <Contact />
                 </Box>
               </Box>
+              <Box marginTop={'0px'}>
               <Footer />
+              </Box>
             </Box>
               )}
         </Box>
